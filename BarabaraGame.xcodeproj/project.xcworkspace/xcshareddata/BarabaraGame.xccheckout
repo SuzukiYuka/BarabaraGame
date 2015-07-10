@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54583458-A652-4521-9CDA-23ECA4B8F6CB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BarabaraGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08502EB4C209CA9B15FE17E7BBC005C9A1C0A847</key>
+		<string>github.com:SuzukiYuka/BarabaraGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BarabaraGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08502EB4C209CA9B15FE17E7BBC005C9A1C0A847</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SuzukiYuka/BarabaraGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08502EB4C209CA9B15FE17E7BBC005C9A1C0A847</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08502EB4C209CA9B15FE17E7BBC005C9A1C0A847</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BarabaraGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
