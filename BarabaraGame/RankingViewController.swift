@@ -1,3 +1,4 @@
+
 //
 //  RankingViewController.swift
 //  BarabaraGame
@@ -9,13 +10,25 @@
 import UIKit
 
 class RankingViewController: UIViewController {
-
+    let defaults: NSUserDefaults = NSUserDefaults.standardUserDefaults()
+    @IBOutlet var rankingLabel1: UILabel!
+    @IBOutlet var rankingLabel2: UILabel!
+    @IBOutlet var rankingLabel3: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        rankingLabel1.text = String(defaults.integerForKey("score1"))
+        rankingLabel2.text = String(defaults.integerForKey("score2"))
+        rankingLabel3.text = String(defaults.integerForKey("score3"))
 
         // Do any additional setup after loading the view.
     }
 
+    @IBAction func toTop() {
+        self.dismissViewControllerAnimated(true, completion: nil)
+    }
+
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
